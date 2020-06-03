@@ -9,7 +9,13 @@ namespace Olá_mundo
             Console.WriteLine("Hello--++---5-------- World!");
             Console.WriteLine("Hello--++----------- World!");
             Console.WriteLine("Hello--++----5------- World!");
-            
+            Console.WriteLine("Hello--++----------- World!");
+            Console.WriteLine("Hello--++----------- World!");
+            Console.WriteLine("Hello--++----------- World!");
+            Console.WriteLine("Hello--++---5-------- World!");
+            Console.WriteLine("Hello--++----------- World!");
+            Console.WriteLine("Hello--++----5------- World!");
+            Console.WriteLine("Hello--++----------- World!");
 
         }
     }
